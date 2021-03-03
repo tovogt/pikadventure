@@ -1,6 +1,6 @@
 # Map of PIK for use with WorkAdventure <img src="https://user-images.githubusercontent.com/57705593/109489043-9e00f000-7a86-11eb-8705-7f2c515c8ebe.png" height="32">
 
-<img src="https://user-images.githubusercontent.com/57705593/109586491-96ccf700-7b05-11eb-82fc-610ba7d9643d.png" width="300">
+<img src="https://user-images.githubusercontent.com/57705593/109786609-9e77c300-7c0d-11eb-8912-134038a3a62e.png" width="300">
 
 Following the instructions in the [WorkAdventure documentation](https://workadventu.re/map-building), this repository is based on the [WorkAdventure map starter kit](https://github.com/thecodingmachine/workadventure-map-starter-kit).
 
