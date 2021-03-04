@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pad.systemli.org\/p\/leaveAnote"
+                 "value":"https:\/\/mensuel.framapad.org\/p\/LeaveAnote-9m4d?lang=en"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -375,7 +375,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.1",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
