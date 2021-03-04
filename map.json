@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/draw.chat\/B4909AEC4C37086990C:qunnzz74#p1,0,0,r0,s1"
+                 "value":"https:\/\/wbo.ophir.dev\/boards\/uUeToFOSrZxHs8U-2R9oVm5nfX39BuU-uH6qlH2Mi-E-"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -375,7 +375,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.4.1",
  "tileheight":32,
  "tilesets":[
         {
