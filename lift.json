@@ -34,7 +34,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":5,
          "x":0,
          "y":0
@@ -46,7 +46,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":5,
          "x":0,
          "y":0
@@ -55,7 +55,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.4.1",
  "tileheight":32,
  "tilesets":[
         {
