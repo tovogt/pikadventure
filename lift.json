@@ -10,7 +10,7 @@
  "infinite":false,
  "layers":[
         {
-         "data":[0, 0, 387, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "data":[0, 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":5,
          "id":2,
          "name":"exit_main",
@@ -22,31 +22,31 @@
                  "value":"map.json#start_lift"
                 }],
          "type":"tilelayer",
+         "visible":true,
+         "width":5,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 15, 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":5,
+         "id":3,
+         "name":"start",
+         "opacity":1,
+         "type":"tilelayer",
          "visible":false,
          "width":5,
          "x":0,
          "y":0
         }, 
         {
-         "data":[0, 387, 0, 387, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":5,
-         "id":3,
-         "name":"start",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":true,
-         "width":5,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[435, 433, 434, 435, 432, 434, 434, 433, 434, 434, 434, 435, 434, 432, 432, 435, 433, 434, 435, 432, 432, 434, 433, 433, 434],
+         "data":[63, 63, 60, 62, 62, 62, 62, 61, 61, 60, 60, 60, 62, 62, 60, 61, 63, 60, 62, 61, 62, 62, 60, 63, 62],
          "height":5,
          "id":1,
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":5,
          "x":0,
          "y":0
@@ -59,25 +59,8 @@
  "tileheight":32,
  "tilesets":[
         {
-         "firstgid":1,
-         "source":"tileset_teachingRoom_1.tsx"
-        }, 
-        {
-         "columns":10,
-         "firstgid":273,
-         "image":"..\/machBar Stand Februar2021\/tileset_cccp.png",
-         "imageheight":320,
-         "imagewidth":320,
-         "margin":0,
-         "name":"tileset_cccp",
-         "spacing":0,
-         "tilecount":100,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":8,
-         "firstgid":373,
+         "firstgid":1,
          "image":"tilesets\/floor.png",
          "imageheight":256,
          "imagewidth":256,
